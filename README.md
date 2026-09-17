@@ -10,6 +10,8 @@ I was born in Pasto, Colombia 🌋.
 
 I studied Electronic Engineering and Telecommunications at the Universidad del Cauca in Popayán. My first professional work was building mobile applications, when phones had tight technical constraints and every design decision mattered.
 
+I also completed a Specialization in Management of Telecommunications Companies at Universidad de los Andes in Bogotá, an MBA at Universidad Externado de Colombia, and a Master's in Business Analytics at ESADE in Spain.
+
 In 2011, I moved to Santiago, Chile to begin my career in Product Management. At Movix, I moved from development into data and product analysis, then into product leadership across Latin America. I learned to connect customer behavior, commercial context, content, technology, and operations.
 
 Later, at fonYou in Bogotá and Mexico City, I worked on cloud-based products, real-time data, digital payments, microcredit, and distribution. It was also where I started working seriously with artificial intelligence.
